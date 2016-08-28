@@ -1,11 +1,11 @@
 /*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
+To calculate square root and cube root of a
+number in Java.
  */
 package acadglid;
 
 import java.lang.*;
-
+//Problem 1
  class Root {
      double cude(double cube){
  double cbrt = Math.cbrt(cube);
